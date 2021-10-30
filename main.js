@@ -7,6 +7,7 @@ let playername;
 
 const start = document.querySelector('.readybutton');
 const playfunc = document.querySelector('.playagainbutton');
+const send = document.querySelector('#sendMessageButton');
 let finalresult = document.querySelector('.result');
 const gamesection = document.querySelector('.option');
 let playerpoints = document.querySelector("#playerpoint");
@@ -14,7 +15,7 @@ let comppoints = document.querySelector("#comppoint");
 let final = document.createElement('p');
 let playagain = document.createElement('button');
 let current = document.createElement("p");
-current.setAttribute('id', 'current')
+current.setAttribute('id', 'current');
 
 //When start button is clicked the full game section is visible
 start.addEventListener('click', startfunction);
@@ -121,4 +122,10 @@ function restartgame() {
     final.remove();
     playfunc.remove();
     document.getElementById("fullgame").style.display = "none";
+}
+
+// Send message button
+send.addEventListener('click', sendmessage);
+function sendmessage() {
+    alert("Oops!! This feature is currently inactive, come back later.");
 }
