@@ -1,6 +1,6 @@
 # **Roshambo**
 
-Our website [**myroshambo.us**](https://myroshambo.us/) is a popular game Rock-Paper-Scissors adding some more features in it.
+Our website [**myroshambo.us**](https://myroshambo.us/){:target="_blank" rel="noopener"} is a popular game Rock-Paper-Scissors adding some more features in it.
 
 ----
 ### This Project is for Hackathon purpose.
@@ -14,8 +14,8 @@ Our website [**myroshambo.us**](https://myroshambo.us/) is a popular game Rock-P
 ***
 
 ### For site hosting-
-* [godaddy](https://in.godaddy.com/)
-* [Porkbun](https://porkbun.com/)
+* [godaddy](https://in.godaddy.com/){:target="_blank" rel="noopener"}
+* [Porkbun](https://porkbun.com/){:target="_blank" rel="noopener"}
 
 ## Environment Setup
 
@@ -39,7 +39,7 @@ and then move to the folder using this command:
 
  #### Or
 
-    * Go to the website: [myroshoambo.us](https://myroshambo.us/)
+    * Go to the website: [myroshoambo.us](https://myroshambo.us/){:target="_blank" rel="noopener"}
 
 
 ***
