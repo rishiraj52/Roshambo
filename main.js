@@ -1,3 +1,4 @@
+//Javascript Part Here
 //Declaring all the needed variables
 let computerresult = 0;
 let playerresult = 0;
@@ -109,6 +110,7 @@ function gameresult(computer, player) {
     finalresult.append(playfunc);
     playfunc.addEventListener('click', restartgame);
 }
+
 
 //Restarts the Game
 function restartgame() {
