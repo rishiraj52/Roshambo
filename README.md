@@ -1,6 +1,9 @@
 # **Roshambo**
+<p align="center">
+  <img src="./assets/img/roshambo.png" height="325px" width="325px" />
+</p>
 
-Our website [**myroshambo.me**](myroshambo.me) is a popular game Rock-Paper-Scissors adding some more features in it.
+Our website [**myroshambo.us**](https://myroshambo.us/) is a popular game Rock-Paper-Scissors adding some more features in it.
 
 ----
 ### This Project is for Hackathon purpose.
@@ -10,11 +13,12 @@ Our website [**myroshambo.me**](myroshambo.me) is a popular game Rock-Paper-Scis
 * CSS3
 * JAVASCRIPT
 * BOOTSTRAP
-* CANVA FOR LOGO
+* CANVA FOR IMAGES
 ***
 
 ### For site hosting-
-* [NAMECHEAP](https://www.namecheap.com/)
+* [godaddy](https://in.godaddy.com/)
+* [Porkbun](https://porkbun.com/)
 
 ## Environment Setup
 
@@ -29,16 +33,16 @@ Make a new folder and open the terminal there.
  ```
 and then move to the folder using this command:
 
- ````
+ ```
  $ cd Roshambo
- ````
+ ```
  #### 3.Run project
  
- * Either you can open with live server 
+   * Either you can open with live server,
 
-## Or
+ #### Or
 
- * Go to the website: [myroshoambo.me](https://www.myroshambo.me/)
+   * Go to the website: [myroshoambo.us](https://myroshambo.us/)
 
 
 ***
