@@ -112,7 +112,6 @@ function gameresult(computer, player) {
     playfunc.addEventListener('click', restartgame);
 }
 
-
 //Restarts the Game
 function restartgame() {
     comppoints.textContent = " ";
