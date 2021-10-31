@@ -1,9 +1,10 @@
 # **Roshambo**
 <p align="center">
-  <img src="./assets/img/roshambo.png" height="325px" width="325px" />
+  <a href="https://myroshambo.us/" target="_blank"><img src="./assets/img/roshambo.png" height="325px" width="325px" /></a>
 </p>
 
-Our website [**myroshambo.us**](https://myroshambo.us/) is a popular game Rock-Paper-Scissors adding some more features in it.
+Our website [**myroshambo.us**](https://myroshambo.us/) is a popular game Rock-Paper-Scissors adding some more features in it. <br>
+The amazing thing about our site is it is responsive, that means you can play on any device anytime and enjoy Roshambo.
 
 ----
 ### This Project is for Hackathon purpose.
@@ -56,7 +57,7 @@ and then move to the folder using this command:
 │   ├── img
 │   └── js
 ├── README.md
-└── index.html
-└── style.css
+├── index.html
+├── style.css
 └── main.js
 ````
